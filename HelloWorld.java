@@ -3,7 +3,7 @@ import static org.junit.Assert.assertEquals;
 import org.testng.annotations.Test;
 
 
-public class HelloJunit {
+public class HelloWorld {
 	
    String a = "a:Hello World";	
    String b = "b:Hello World";
